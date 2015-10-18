@@ -6,6 +6,6 @@
 3. 최종 결정사항을 순차적으로 반영하여 관리자가 commit
 
 ## #1 대한민국 행정구역 온톨로지 모델
-- File: ad.rdf
+- File: [ad.rdf](https://github.com/Open-Knowledge-Korea/ckat-knowledge-model/blob/master/ad.rdf)
 - Vocabularies: http://lod.datahub.kr/tools/specification/ad
 - Datasets: http://data.datahub.kr/dataset/korea-administrative-divisions
